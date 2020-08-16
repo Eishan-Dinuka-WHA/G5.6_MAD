@@ -25,5 +25,8 @@
 
     <string name="SUpconfirm_messgae">You have successfully signed up</string>
     <string name="SUpconfirm_button">Proceed</string>
+    <string name="Sedit_dele">Edit</string>
+    <string name="Se_dele">Delete</string>
+    <string name="Se_or_dele">Edit or Delete</string>
 
 </resources>

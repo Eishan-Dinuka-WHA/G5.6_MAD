@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".ConfirmSignup"></activity>
+        <activity android:name=".Room_Edit_delete"></activity>
+        <activity android:name=".ConfirmSignup" />
         <activity android:name=".Signup" />
         <activity android:name=".SignIn" />
         <activity android:name=".ConfirmBooking" />
