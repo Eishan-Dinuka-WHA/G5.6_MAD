@@ -10,63 +10,93 @@
         android:id="@+id/editTextTextPersonName5"
         android:layout_width="152dp"
         android:layout_height="51dp"
+        android:layout_marginStart="249dp"
+        android:layout_marginLeft="249dp"
+        android:layout_marginTop="266dp"
+        android:layout_marginBottom="414dp"
         android:ems="10"
         android:inputType="textPersonName"
         android:text="@string/res_name48V"
-        tools:layout_editor_absoluteX="249dp"
-        tools:layout_editor_absoluteY="266dp" />
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
     <EditText
         android:id="@+id/editTextTextPersonName4"
         android:layout_width="152dp"
         android:layout_height="51dp"
+        android:layout_marginStart="250dp"
+        android:layout_marginLeft="250dp"
+        android:layout_marginTop="225dp"
+        android:layout_marginBottom="455dp"
         android:ems="10"
         android:inputType="textPersonName"
         android:text="@string/res_name48A"
-        tools:layout_editor_absoluteX="250dp"
-        tools:layout_editor_absoluteY="225dp" />
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
     <EditText
         android:id="@+id/editTextTextPersonName2"
         android:layout_width="151dp"
         android:layout_height="49dp"
+        android:layout_marginStart="250dp"
+        android:layout_marginLeft="250dp"
+        android:layout_marginTop="192dp"
+        android:layout_marginBottom="490dp"
         android:ems="10"
         android:inputType="textPersonName"
         android:text="@string/res_name48"
-        tools:layout_editor_absoluteX="250dp"
-        tools:layout_editor_absoluteY="192dp" />
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
     <EditText
         android:id="@+id/editTextTextPersonName3"
         android:layout_width="152dp"
         android:layout_height="51dp"
+        android:layout_marginStart="250dp"
+        android:layout_marginLeft="250dp"
+        android:layout_marginTop="343dp"
+        android:layout_marginBottom="337dp"
         android:ems="10"
         android:inputType="textPersonName"
         android:text="@string/res_name49"
-        tools:layout_editor_absoluteX="250dp"
-        tools:layout_editor_absoluteY="343dp" />
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
     <Button
         android:id="@+id/button12"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginStart="161dp"
+        android:layout_marginLeft="161dp"
+        android:layout_marginTop="465dp"
+        android:layout_marginBottom="218dp"
         android:background="#03A9F4"
         android:text="@string/res_name38"
         android:textSize="18sp"
         android:textStyle="bold"
-        tools:layout_editor_absoluteX="161dp"
-        tools:layout_editor_absoluteY="465dp" />
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
     <Button
         android:id="@+id/button11"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginStart="296dp"
+        android:layout_marginLeft="296dp"
+        android:layout_marginTop="465dp"
+        android:layout_marginBottom="218dp"
         android:background="#03A9F4"
         android:text="@string/res_name39"
         android:textSize="18sp"
         android:textStyle="bold"
-        tools:layout_editor_absoluteX="296dp"
-        tools:layout_editor_absoluteY="465dp" />
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
         android:id="@+id/textView27"
@@ -131,12 +161,17 @@
         android:id="@+id/button10"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginStart="26dp"
+        android:layout_marginLeft="26dp"
+        android:layout_marginTop="465dp"
+        android:layout_marginBottom="218dp"
         android:background="#03A9F4"
         android:text="@string/res_name37"
         android:textSize="18sp"
         android:textStyle="bold"
-        tools:layout_editor_absoluteX="26dp"
-        tools:layout_editor_absoluteY="465dp" />
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
     <androidx.appcompat.widget.Toolbar
         android:id="@+id/toolbar4"

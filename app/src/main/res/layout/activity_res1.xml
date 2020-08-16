@@ -85,33 +85,48 @@
         android:id="@+id/button4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginStart="165dp"
+        android:layout_marginLeft="165dp"
+        android:layout_marginTop="586dp"
+        android:layout_marginBottom="97dp"
         android:background="#03A9F4"
         android:shadowColor="#03A9F4"
         android:text="@string/res_name16"
         android:textColorHint="#A6A2A1"
         android:textStyle="bold"
-        tools:layout_editor_absoluteX="165dp"
-        tools:layout_editor_absoluteY="586dp" />
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="492dp"
-        android:layout_height="197dp"
-        app:srcCompat="@drawable/ckn1"
-        tools:layout_editor_absoluteX="-41dp"
-        tools:layout_editor_absoluteY="158dp" />
+        android:layout_width="392dp"
+        android:layout_height="206dp"
+        android:layout_marginTop="157dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="368dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ckn1" />
 
     <androidx.appcompat.widget.Toolbar
         android:id="@+id/toolbar"
         android:layout_width="411dp"
         android:layout_height="52dp"
+        android:layout_marginStart="2dp"
+        android:layout_marginLeft="2dp"
+        android:layout_marginTop="1dp"
+        android:layout_marginBottom="678dp"
         android:background="#03A9F4"
         android:minHeight="?attr/actionBarSize"
         android:theme="?attr/actionBarTheme"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
         app:subtitleTextColor="#2196F3"
-        app:titleTextColor="#03A9F4"
-        tools:layout_editor_absoluteX="2dp"
-        tools:layout_editor_absoluteY="1dp" />
+        app:titleTextColor="#03A9F4" />
 
     <TextView
         android:id="@+id/textView29"
