@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Liyons hotel and Restaurants</string>
+    <string name="app_name">Liyons Hotel and Resturant</string>
     <string name="P_BOOK">Book</string>
     <string name="P_Event_No">Event No</string>
     <string name="P_First_Name">First Name</string>
@@ -17,7 +17,7 @@
     <string name="P_Delete">Delete</string>
     <string name="P_View">View</string>
     <string name="P_Notification">Notification</string>
-    <string name="P_Your">Your are Booking Succesfuly</string>
+    <string name="P_Your">Your are Booking Successfully</string>
     <string name="P_Book_a_Event">Book a Event</string>
     <string name="P_Sign_in">Sign in</string>
     <string name="P_Sign_up">Sign up</string>
@@ -35,15 +35,12 @@
     <string name="P_Hi_Cutomer">Hi Customer</string>
 
 
-
     <string name="M_Event">Event</string>
     <string name="M_Room">Rooms</string>
     <string name="M_Restaurants">Restaurants</string>
     <string name="M_Employee">Employee</string>
     <string name="M_details">Details</string>
     <string name="M_user">.  Admin</string>
-
-
 
 
     <string name="E_Search">Search Employee</string>
@@ -70,7 +67,7 @@
     <string name="E_cal_sub">Calculate an Submit</string>
     <string name="E_edit_sub">Edit an Calculate</string>
     <string name="E_not">Notification</string>
-    <string name="E_not_det">Succesfuly Registerd</string>
+    <string name="E_not_det">Successfully Registerd</string>
     <string name="E_Full">Full Name</string>
     <string name="E_Total_d">Total Deduction</string>
     <string name="E_Gross">Gross Pay</string>
@@ -81,6 +78,4 @@
     <string name="E_details">Employee details, Name, Address</string>
     <string name="E_price">RS 0000.00</string>
     <string name="E_adre">Address</string>
-
-
 </resources>
