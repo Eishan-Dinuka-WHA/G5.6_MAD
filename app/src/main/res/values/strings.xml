@@ -1,4 +1,29 @@
 <resources>
     <string name="app_name">G5.6_E2HG Developer</string>
     <string name="Msg1">W.H.A.Eishan Dinuka</string>
+    <string name="R_Name">Name</string>
+    <string name="R_Email">Email</string>
+    <string name="R_roomtype">Room Type</string>
+    <string name="R_guests">Guests</string>
+    <string name="R_arrival">Arrival Date</string>
+    <string name="R_departure">Departure Date</string>
+    <string name="R_button">Confirm Booking</string>
+
+    <string name="C_Message">You Have placed the booking successfully</string>
+    <string name="C_button">Proceed</string>
+
+    <string name="S_name">User Name</string>
+    <string name="S_password">Password</string>
+    <string name="S_reenter">Re enter password</string>
+    <string name="S_custype">Customer Type</string>
+    <string name="S_email">Email</string>
+    <string name="S_button">Register</string>
+
+    <string name="Signin_name">User Name</string>
+    <string name="Signin_password">Password</string>
+    <string name="Signin_button">Login</string>
+
+    <string name="SUpconfirm_messgae">You have successfully signed up</string>
+    <string name="SUpconfirm_button">Proceed</string>
+
 </resources>
