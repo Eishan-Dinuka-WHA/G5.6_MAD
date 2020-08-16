@@ -49,7 +49,7 @@
     <string name="E_add_emp">Employee Management</string>
     <string name="E_Registraion">Registration No</string>
     <string name="E_First_Name">First Name</string>
-    <string name="E_Last_Name">Last Name</string>
+    <string name="E_Last_Name">Last Name.</string>
     <string name="E_Address">Address</string>
     <string name="E_Designation">Designation</string>
     <string name="E_Emp_Type">Employee Type</string>
@@ -59,8 +59,8 @@
     <string name="E_Basic_salary">Basic Salary</string>
     <string name="E_over_time">Overtime Working</string>
     <string name="E_Allowan">Allowance</string>
-    <string name="E_Bonus">Bonus</string>
-    <string name="E_Deducion">Deduction</string>
+    <string name="E_Bonus">Bonus.</string>
+    <string name="E_Deducion">Deduction.</string>
     <string name="E_fes">Festival Advance</string>
     <string name="E_sta">STAMP</string>
     <string name="E_Epf">EPF(10%)</string>
