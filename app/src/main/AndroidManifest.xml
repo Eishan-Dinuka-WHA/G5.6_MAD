@@ -9,6 +9,23 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity android:name=".main_side_bar"></activity>
+        <activity android:name=".emp_profile" />
+        <activity android:name=".emp_edit_delete_2" />
+        <activity android:name=".emp_edit_delete1" />
+        <activity android:name=".emp_notification" />
+        <activity android:name=".emp_add2" />
+        <activity android:name=".emp_add1" />
+        <activity android:name=".emp_search" />
+        <activity android:name=".MainPage_After_Login" />
+        <activity android:name=".event_edit_delete_2" />
+        <activity android:name=".Event_edit_delete" />
+        <activity android:name=".event_book_profiles" />
+        <activity android:name=".event_notification" />
+        <activity android:name=".event_book_2" />
+        <activity android:name=".event_book" />
+        <activity android:name=".EventMain" />
+        <activity android:name=".Mainpage" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

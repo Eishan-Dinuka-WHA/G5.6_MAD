@@ -1,4 +1,86 @@
 <resources>
-    <string name="app_name">G5.6_E2HG Developer</string>
-    <string name="Msg1">W.H.A.Eishan Dinuka</string>
+    <string name="app_name">Liyons hotel and Restaurants</string>
+    <string name="P_BOOK">Book</string>
+    <string name="P_Event_No">Event No</string>
+    <string name="P_First_Name">First Name</string>
+    <string name="P_Last_Name">Last Name</string>
+    <string name="P_Email">E mail</string>
+    <string name="P_Event_Type">Event Type</string>
+    <string name="P_Number_of_guest">Number of Guest</string>
+    <string name="P_Hall_Type">Hall Type</string>
+    <string name="P_plate_Price">Plate Price</string>
+    <string name="P_Date">Date</string>
+    <string name="P_Next">Next</string>
+    <string name="P_Total_Price">Total Price</string>
+    <string name="P_Edit_Delete">Edit or Delete</string>
+    <string name="P_calculate_confirm">Calculate an Confirm</string>
+    <string name="P_Delete">Delete</string>
+    <string name="P_View">View</string>
+    <string name="P_Notification">Notification</string>
+    <string name="P_Your">Your are Booking Succesfuly</string>
+    <string name="P_Book_a_Event">Book a Event</string>
+    <string name="P_Sign_in">Sign in</string>
+    <string name="P_Sign_up">Sign up</string>
+    <string name="P_MAIN_Event">Event Packages</string>
+    <string name="P_Details">Enter packages Details here , price and Other things</string>
+    <string name="P_MAIN_res">Room Packages</string>
+    <string name="P_Booking">Booking Details</string>
+    <string name="P_Edit_delete_booking">Edit or Delete Booking</string>
+    <string name="P_Full_Name">Full Name</string>
+    <string name="P_Address">Address</string>
+    <string name="P_Price">Rs 10000.00</string>
+    <string name="P_Edit_an_Calculate">Edit and Calculate</string>
+    <string name="P_Local_Pack">Local Packages</string>
+    <string name="P_Foreign_pack">Foreign Packages</string>
+    <string name="P_Hi_Cutomer">Hi Customer</string>
+
+
+
+    <string name="M_Event">Event</string>
+    <string name="M_Room">Rooms</string>
+    <string name="M_Restaurants">Restaurants</string>
+    <string name="M_Employee">Employee</string>
+    <string name="M_details">Details</string>
+    <string name="M_user">.  Admin</string>
+
+
+
+
+    <string name="E_Search">Search Employee</string>
+    <string name="E_Add_Emp">Add New Employee</string>
+    <string name="E_View">View</string>
+    <string name="E_add_emp">Employee Management</string>
+    <string name="E_Registraion">Registration No</string>
+    <string name="E_First_Name">First Name</string>
+    <string name="E_Last_Name">Last Name</string>
+    <string name="E_Address">Address</string>
+    <string name="E_Designation">Designation</string>
+    <string name="E_Emp_Type">Employee Type</string>
+    <string name="E_Emp_Next">Next</string>
+    <string name="E_Earning">Earning</string>
+    <string name="E_description">Description</string>
+    <string name="E_Basic_salary">Basic Salary</string>
+    <string name="E_over_time">Overtime Working</string>
+    <string name="E_Allowan">Allowance</string>
+    <string name="E_Bonus">Bonus</string>
+    <string name="E_Deducion">Deduction</string>
+    <string name="E_fes">Festival Advance</string>
+    <string name="E_sta">STAMP</string>
+    <string name="E_Epf">EPF(10%)</string>
+    <string name="E_cal_sub">Calculate an Submit</string>
+    <string name="E_edit_sub">Edit an Calculate</string>
+    <string name="E_not">Notification</string>
+    <string name="E_not_det">Succesfuly Registerd</string>
+    <string name="E_Full">Full Name</string>
+    <string name="E_Total_d">Total Deduction</string>
+    <string name="E_Gross">Gross Pay</string>
+    <string name="E_Edit_or_Delete">Edit or Delete</string>
+    <string name="E_Print">Print</string>
+    <string name="E_amount">Amount(LKR)</string>
+    <string name="E_delete">Delete</string>
+    <string name="E_details">Employee details, Name, Address</string>
+    <string name="E_price">RS 0000.00</string>
+    <string name="E_adre">Address</string>
+
+
 </resources>
